@@ -1,1 +1,10 @@
-For the AC resistance file, I have converted the Imax to ampere (eventhough its being displayed in dB in the output log). R=10/Imax
+1mohm-1kohm measuring device
+
+Hardware used:
+1. Arduino Uno
+2. Known resistor(1ohm)
+3. Unknown resistor (1mohm-1kohm)
+4. jumper wires
+5. LCD 
+
+
